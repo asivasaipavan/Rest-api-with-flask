@@ -36,5 +36,4 @@ This project demonstrates the fundamentals of backend API development.
 
 ---
 
-## 📂 Project Structure
 
